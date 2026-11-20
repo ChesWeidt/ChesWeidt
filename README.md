@@ -1,16 +1,13 @@
-## Hi there 👋
+# 💻🎧⋆ ✧˚₊· Hi, i´m Ches ·₊˚✧
 
-<!--
-**ChesWeidt/ChesWeidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Aspiring Design Engineer`**
 
-Here are some ideas to get you started:
+## I'm a 20-year-old aspiring Design Engineer, born in Connecticut, USA, and raised in Santa Catarina, Brazil. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+˚₊‧꒰ა Currently pursuing a Bachelor's Degree in Graphic Design at UNIVALI. I graduated from IFC (Federal Institute of Santa Catarina) with a Technical Degree in Informatics. ໒꒱‧₊˚
+
+### I'm interested in Graphic Design, UI/UX, Front-End Development, and the intersection of design and technology. 
+
+### Currently learning HTML, CSS, JavaScript, and React. 
+
+### My goal is to combine design and development to create meaningful digital experiences. 
